@@ -2,7 +2,7 @@
 
 原文：[Gremlinator: An effort towards converting SPARQL queries to Gremlin Graph Pattern Matching Traversals](https://github.com/LITMUS-Benchmark-Suite/sparql-to-gremlin)
 
-该篇为上述文档内容整理。<!--非全文翻译-->
+该篇为上述文档内容整理。<非全文翻译>
 
 
 
@@ -10,7 +10,7 @@
 
 本文档提供了SPARQL-Gremlin编译器（也称为Gremlinator）的参考文档，该编译器**用于将SPARQL查询转换为Gremlin遍历**。 它基于Apache Jena SPARQL处理器ARQ，该处理器提供对SPARQL查询的语法树的访问。
 
-当前版本的SPARQL-Gremlin仅使用Apache Jena提供的功能的子集。 以下示例显示了每个已实现的功能<!--该篇文档版本较早，现在已更新到3.4.6-->
+当前版本的SPARQL-Gremlin仅使用Apache Jena提供的功能的子集。 以下示例显示了每个已实现的功能<该篇文档版本较早，现在已更新到3.4.6>
 
 
 
@@ -22,7 +22,7 @@
 
 ### 样例演示
 
-1. Gremlinator演示- [演示1](http://gremlinator.iai.uni-bonn.de:8080/Demo/)和[演示2](http://195.201.31.31:8080/Demo/)<!--演示2可能打不开,参考演示1即可-->
+1. Gremlinator演示- [演示1](http://gremlinator.iai.uni-bonn.de:8080/Demo/)和[演示2](http://195.201.31.31:8080/Demo/)<演示2可能打不开,参考演示1即可>
 2. 有关如何使用演示的简短视频教程- [视频教程](https://www.youtube.com/watch?v=Z0ETx2IBamw)
 
 
@@ -115,7 +115,7 @@ SELECT * WHERE {
 
 
 
-### 用法 <!-- 更新为3.4.6版本-->
+### 用法 <更新为3.4.6版本>
 
 1.下载插件（该步骤时间可能较长，请耐心等待）
 
